@@ -1,9 +1,9 @@
 ---
 title: "Hello World"
-authors: ["James Sevedge"]
+authors: ["Hannah Classon"]
 meta_desc: "There always has to be a first blog post"
 date: 2020-05-20
 ---
 
-Hello, world!
+Hello, world this is Hannah Classon!
 

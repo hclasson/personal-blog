@@ -1,6 +1,6 @@
 ---
 title: "About"
-authors: ["James Sevedge"]
+authors: ["Hannah Classon"]
 meta_desc: "About Page"
 date: 2020-05-20
 ---
